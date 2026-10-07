@@ -89,4 +89,4 @@ def home():
 
 if __name__ == "__main__":
     app.run(debug=True)
-c:\Users\gGowtham\Desktop\Student Performance Project\student_performance_model.pkl
+    
